@@ -20,7 +20,7 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 ```
 
-3. Start MySQL.
+3. Start MySQL
 
 ```
 # systemctl enable mysqld 
